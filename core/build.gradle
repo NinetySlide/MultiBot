@@ -40,7 +40,7 @@ targetCompatibility = JavaVersion.VERSION_1_7
 dependencies {
     appengineSdk 'com.google.appengine:appengine-java-sdk:1.9.28'
     compile 'javax.servlet:servlet-api:2.5'
-    compile files('libs/botforge-v0.1-beta1.jar')
+    compile files('libs/botforge-v0.1-beta2.jar')
 }
 
 appengine {

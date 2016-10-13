@@ -4,11 +4,11 @@ MultiBot is a showcase software for the BotForge framework. Click [here](https:/
 
 MultiBot is a software that impersonate three different Facebook Messenger Bots. Here is a summary of the bots:
 
-* **HelloBot**: A basic Hello World Bot. It is specialized in greetings.
+* **HelloBot**: A basic Hello World Bot. It is specialized in greetings. You can see it [here](https://www.facebook.com/Hello-Bot-1771502919787727).
 
-* **EchoBot**: A Bot that sends back everything is sent to it. It also shows some sample templates.
+* **EchoBot**: A Bot that sends back everything is sent to it. It also shows some sample templates. You can see it [here](https://www.facebook.com/Echo-Bot-295817380752441).
 
-* **AlarmClockBot**: A Bot that works as an alarm clock (*Yet to be developed*).
+* **AlarmClockBot**: A Bot that works as an alarm clock (*Yet to be developed*). You can see it [here](https://www.facebook.com/Alarm-Clock-Bot-1336996956341504).
 
 ## Bot Interactions
 
